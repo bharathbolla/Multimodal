@@ -1,6 +1,6 @@
 <h2> MULTIMODAL DEEP LEARNING on Astronomical Bodies Classification  - TENSORFLOW / KERAS</h2>
 
-### Paper presented at DLDC 2021  [DLDC_2021_Camera Ready Version_Bharath_Sabeesh.pdf](https://github.com/sabeesh90/Multimodal_Deep_Learning/files/7781427/DLDC_2021_Camera.Ready.Version_Bharath_Sabeesh.pdf)
+### Paper presented at DLDC 2021, Bangalore  [DLDC_2021_Camera Ready Version_Bharath_Sabeesh.pdf](https://github.com/sabeesh90/Multimodal_Deep_Learning/files/7781427/DLDC_2021_Camera.Ready.Version_Bharath_Sabeesh.pdf)
 [DLDC presentation.pptx](https://github.com/sabeesh90/Multimodal_Deep_Learning/files/7914945/DLDC.presentation.pptx)
 
 
